@@ -1,6 +1,6 @@
 ### This sets up a boilerplate procject for html/css/js.
 #### To use
-#### 1) git clone <repo> <path>
+#### 1) git clone &lt;repo&gt; &lt;path&gt;
 #### 2) npm install
 
 ### Default npm scripts:
