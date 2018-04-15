@@ -4,9 +4,8 @@
 #### 2) cd &lt;path&gt;
 #### 3) rm -rf .git (We want a clean repo; .gitignore stays as it ignores node_modules)
 #### 4) rm README.md (We don't want README for htmlboiler repo)
-#### 5) git remote add origin &lt;repo&gt;
-#### 6) Do initial commit if so desired
-#### 7) npm install
+#### 5) Do initial commit if so desired
+#### 6) npm install
 
 ### Default npm scripts:
 #### dbuild: development build
